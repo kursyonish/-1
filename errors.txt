@@ -1,0 +1,12 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+The label shk_scene is defined twice, at File "game/script.rpy", line 160:
+    label shk_scene:
+and File "game/script.rpy", line 192:
+label shk_scene:
+
+
+Ren'Py Version: Ren'Py 8.2.0.24012702
+Thu Nov 28 01:01:59 2024
